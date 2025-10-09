@@ -6,7 +6,11 @@ public class Main {
         double c = (double) a;
         int d = (int) b;
 
+        String converte = String.valueOf(a);
+
+
         System.out.println(c);
         System.out.println(d);
+        System.out.println(converte);
     }
 }

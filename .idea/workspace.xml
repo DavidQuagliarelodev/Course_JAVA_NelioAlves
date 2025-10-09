@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5be5bb8-6c9d-46f5-985f-4884d36659a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01-ExpressoesComparativas/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/01-HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-HelloWorld/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/02-EstruturaSequencial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/src/OperadoresAritimeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/03-VariaveisTiposPrimitivos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/Conversao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/05-EntradaDados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/06-FuncoesMatematicas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/src/FuncoesMatematicas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/01-ExpressoesComparativas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/02-ExpressoesLogicas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/03-EstruturaCondicional.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/04-SwitchCase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/05-Ternario.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/01-While.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/02-DoWhile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/03-For.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/01-StringsFunctions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/01-StringsFunctions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-OutroTopicos/untitled/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33mx9d53ai0XWEiELluSmcqvGRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Dev/Course/Java-NeilioAlves&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5be5bb8-6c9d-46f5-985f-4884d36659a1" name="Changes" comment="" />
+      <created>1759935898601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759935898601</updated>
+    </task>
+    <servers />
+  </component>
+</project>

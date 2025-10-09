@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/01-EspressoesAritimeticas.iml" filepath="$PROJECT_DIR$/02-EstruturaSequencial/01-EspressoesAritimeticas/01-EspressoesAritimeticas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/01-ExpressoesComparativas.iml" filepath="$PROJECT_DIR$/03-EstruturaCondicional/01-ExpressoesComparativas/01-ExpressoesComparativas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-HelloWorld/01-HelloWorld.iml" filepath="$PROJECT_DIR$/01-HelloWorld/01-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/01-While.iml" filepath="$PROJECT_DIR$/04-EstruturaRepetitiva/01-While/01-While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/02-DoWhile.iml" filepath="$PROJECT_DIR$/04-EstruturaRepetitiva/02-DoWhile/02-DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/02-ExpressoesLogicas.iml" filepath="$PROJECT_DIR$/03-EstruturaCondicional/02-ExpressoesLogicas/02-ExpressoesLogicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/02-VariaveisTiposPrimitivos.iml" filepath="$PROJECT_DIR$/02-EstruturaSequencial/02-VariaveisTiposPrimitivos/02-VariaveisTiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/03-Conversao.iml" filepath="$PROJECT_DIR$/02-EstruturaSequencial/03-Conversao/03-Conversao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/03-EstruturaCondicional.iml" filepath="$PROJECT_DIR$/03-EstruturaCondicional/03-EstruturaCondicional/03-EstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/03-For.iml" filepath="$PROJECT_DIR$/04-EstruturaRepetitiva/03-For/03-For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/04-EntradaDados.iml" filepath="$PROJECT_DIR$/02-EstruturaSequencial/04-EntradaDados/04-EntradaDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/04-SwitchCase.iml" filepath="$PROJECT_DIR$/03-EstruturaCondicional/04-SwitchCase/04-SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/05-FuncoesMatematicas.iml" filepath="$PROJECT_DIR$/02-EstruturaSequencial/05-FuncoesMatematicas/05-FuncoesMatematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-OutroTopicos/05-OutroTopicos.iml" filepath="$PROJECT_DIR$/05-OutroTopicos/05-OutroTopicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/05-Ternario.iml" filepath="$PROJECT_DIR$/03-EstruturaCondicional/05-Ternario/05-Ternario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-NeilioAlves.iml" filepath="$PROJECT_DIR$/.idea/Java-NeilioAlves.iml" />
+    </modules>
+  </component>
+</project>
