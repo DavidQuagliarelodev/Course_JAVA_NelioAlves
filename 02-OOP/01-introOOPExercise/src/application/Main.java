@@ -13,7 +13,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         Triangle triangleX = new Triangle();
         Triangle triangleY = new Triangle();
-
+        
         System.out.print("EdgeX A : ");
         triangleX.setEdgeA(sc.nextDouble());
         System.out.print("EdgeX B : ");
