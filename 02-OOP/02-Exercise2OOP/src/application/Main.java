@@ -26,5 +26,7 @@ public static void main(String[] args) {
     //Ato inferindo o toString() que eu implementei
     //System.out.println(product);
 
+    //Is great method for compare
+    System.out.println(product.equals(sc));
 }
 }
