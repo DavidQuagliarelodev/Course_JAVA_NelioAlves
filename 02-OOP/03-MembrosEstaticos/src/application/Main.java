@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         //Constants
-
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter raio in Circumference: ");
         double radius = sc.nextDouble();
